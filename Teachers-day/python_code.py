@@ -3,7 +3,7 @@ import pyb
 
 pyb.LED(3).on()                
 pyb.delay(2000)                
-switch_value = pyb.Switch()()  
+switch_value = pyb.Switch()  
 pyb.LED(3).off()                
 
 pyb.LED(4).on()                
