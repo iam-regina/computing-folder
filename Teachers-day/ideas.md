@@ -21,7 +21,7 @@ Mrs Chu lives in the school hostel
 
 **2) poem on teachers**
 
-
+(Can get inspiration from others as many people have alr done poems)
 
 **3) short stories on teachers**
 *idea from Yi Xuan*
