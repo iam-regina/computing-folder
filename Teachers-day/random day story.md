@@ -8,6 +8,7 @@ the longest day which ends at 4:20pm
 
 You forgot to bring your textbook, notebook and overdue assignments by two weeks.  
 You get scolded by teacher.
+She makes you present all the answers on the board. They were very hard and you got all wrong very badly. You were humiliated in front of the class.
 Afterwards, she continues to give more work.
 And you have to hand it all up tomorrow.
 
@@ -33,7 +34,8 @@ as the queue before you shortens.<br/>
 However, to your utmost frustrATION, by the time you reach the counter, most of the food is sold out, leaving..... the worst thing EVER (input food name)<br/>
 
 just when you thought that there was when all the unpleasant things would end, something else happened...<br/>
-your hot soup spilled on your uniform and burned like hot charcoal just out from a furnace
+your hot soup spilled on your uniform and burned like hot charcoal just out from a furnace.
+The general office says that they have no more spares, so you have to wear the wet shirt for the rest of the day. Along the way, you trip and your shirt becomes slightly weter(no prizes for guessing what the liquid is!)
 
 to be continued......<br/>
 
